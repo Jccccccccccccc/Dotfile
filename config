@@ -1,0 +1,5 @@
+#CAEN
+Host jcc
+	HostName login.itd.umich.edu
+	User jccccccc
+	Compression yes
